@@ -6,7 +6,7 @@
 
 🔧 **Tech Stack:** Proficient in Java, JavaScript, HTML, CSS, JQuery, TypeScript, ReactJS, AngularJS, Hibernate, JPA and related technologies. I enjoy staying abreast of the latest industry trends and adopting innovative technologies.
 
-🌐 **Projects:** Check out my projects below to see practical applications of my skills. Highlights include Text Utility application and Online shopping application.
+🌐 **Projects:** Check out my projects below to see practical applications of my skills. Highlights include Text Utility application, News App and Online shopping application.
 
 📚 **Learning Journey:** I believe in continuous learning. Currently, I'm diving into leraning Web application development, System design, Database optimisation and cloud technologies.
 
